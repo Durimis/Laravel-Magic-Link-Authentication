@@ -9,6 +9,6 @@
 
 ## Laravel passwordless authentication
 
-This is a demo project that shows how to handle Laravel magic link login, the full tutorial can be found on this link 
+This is a demo project that shows how to handle Laravel magic link login, the full tutorial can be found on this <a href="https://www.linkedin.com/pulse/laravel-magic-link-login-durim-gjoshi" >link  </a>
 
 
